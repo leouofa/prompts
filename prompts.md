@@ -15,4 +15,4 @@
 - when you finish going through all the files iterate through notes.md and verify that the refactoring opportunities are there.
 
 #### Prompt Step 2
-Can you iterate through the notes.md and ensrue that all refactoring opportunties are there?
+Can you iterate through the notes.md and ensure that all refactoring opportunities are there?
