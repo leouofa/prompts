@@ -16,3 +16,8 @@
 
 #### Prompt Step 2
 Can you iterate through the notes.md and ensure that all refactoring opportunities are there?
+
+## Analyze a PR
+*Do a `git pull` and change the branch to the one you are attempting to review!*
+- can you analyze the code changed/added in this branch (vs main) and look for issues?
+- utilize git log to ensure you're looking at the right files.
