@@ -19,5 +19,7 @@ Can you iterate through the notes.md and ensure that all refactoring opportuniti
 
 ## Analyze a PR
 *Do a `git pull` and change the branch to the one you are attempting to review!*
-- can you analyze the code changed/added in this branch (vs main) and look for issues?
+- analyze the code changed in this branch vs the main branch and look for issues.
 - utilize git log to ensure you're looking at the right files.
+- look at the file changes, and analyze it for potential issues such as N+1.
+- make refactoring recommendations, but only as they relate to the changes introduced in the new branch.
