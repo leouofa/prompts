@@ -23,7 +23,22 @@ Can you iterate through the notes.md and ensure that all refactoring opportuniti
 
 ## Analysis
 
-## Review a PR
+### Understand IoC
+
+#### Step *1*
+```
+- create a file called notes.md
+- go through the files in the @folder and update the notes.md with:
+<node_md_content>
+* mermaid diagram of the infrastructure
+* list of services used
+* Description of the services used and interactions with one another
+</note_md_content>
+- update the notes.md after each file
+- go back to previous files if necessary to get a better understanding of the infrastructure
+```
+
+### Review a PR
 - *Enable `yolo` mode with the follwoing commands `git diff`, `git show`, `grep`, `rspec`, `cat`, `git brach`, `git log`.*
 - *Do a `git pull` and change the branch to the one you are attempting to review.*
 
