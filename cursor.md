@@ -38,6 +38,20 @@ Can you iterate through the notes.md and ensure that all refactoring opportuniti
 - go back to previous files if necessary to get a better understanding of the infrastructure
 ```
 
+### Understand Data Structure
+
+#### Step *1*
+```
+- create a file called notes.md
+- go through the files in the repo and update the notes.md with:
+<notes.md content>
+* mermaid diagram of the how models are related to one another
+* understanding of the data structure flows throughout the system
+</notes.md content>
+- update the notes.md after each file is processed
+- go back to previous files if necessary to get a better understanding of the the data structure
+```
+
 ### Review a PR
 - *Enable `yolo` mode with the follwoing commands `git diff`, `git show`, `grep`, `rspec`, `cat`, `git brach`, `git log`.*
 - *Do a `git pull` and change the branch to the one you are attempting to review.*
