@@ -29,11 +29,11 @@ Can you iterate through the notes.md and ensure that all refactoring opportuniti
 ```
 - create a file called notes.md
 - go through the files in the @folder and update the notes.md with:
-<node_md_content>
+<nodes.md content>
 * mermaid diagram of the infrastructure
 * list of services used
 * Description of the services used and interactions with one another
-</note_md_content>
+</notes.md content>
 - update the notes.md after each file
 - go back to previous files if necessary to get a better understanding of the infrastructure
 ```
