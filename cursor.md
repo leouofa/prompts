@@ -27,6 +27,12 @@ Can you iterate through the notes.md and ensure all refactoring opportunities ex
 what methods are good candidates here for extraction via refactoring?
 ```
 
+### Work with RuboCop 
+- creates notes.md file in the root directory
+- recursively scan through the files in @.rubocop_todo.yml and look for opportunities to refactor the files
+- populate the notes.md with those opportunities
+- also look for code duplication
+
 ## Analysis
 
 ### Understand IoC
