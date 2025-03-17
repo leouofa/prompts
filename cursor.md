@@ -13,12 +13,18 @@
 </notes.md content>
 - update the notes.md after each file
 - look at related files if necessary for better understanding
-- when you finish going through all the files iterate through notes.md and verify that the refactoring opportunities are there.
+- When you finish going through all the files, iterate through notes and md and verify that the refactoring opportunities are there.
 ```
 
 #### Prompt Step *2*
 ```
-Can you iterate through the notes.md and ensure that all refactoring opportunities are there?
+Can you iterate through the notes.md and ensure all refactoring opportunities exist?
+```
+
+### Refactor a Rails model
+*with a file added as a reference*
+```
+what methods are good candidates here for extraction via refactoring?
 ```
 
 ## Analysis
