@@ -38,7 +38,7 @@ what methods are good candidates here for extraction via refactoring?
 ### Presenters
 ```
 - create a file called presenters.md
-- go through the models, view, and helpers and look for opportunities to use presenters to improve code quality
+- go through the models, controllers, view, and helpers and look for opportunities to use presenters to improve code quality
 - update the presenters.md with your findings
 ```
 
