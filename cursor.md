@@ -28,10 +28,19 @@ what methods are good candidates here for extraction via refactoring?
 ```
 
 ### Work with RuboCop 
+```
 - creates notes.md file in the root directory
 - recursively scan through the files in @.rubocop_todo.yml and look for opportunities to refactor the files
 - populate the notes.md with those opportunities
 - also look for code duplication
+```
+
+### Presenters
+```
+- create a file called presenters.md
+- go through the models, view, and helpers and look for opportunities to use presenters to improve code quality
+- update the presenters.md with your findings
+```
 
 ## Analysis
 
